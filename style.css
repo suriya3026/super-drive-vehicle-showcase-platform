@@ -47,7 +47,7 @@ a:focus,button:focus{
 	color:rgb(255,190,60) !important;
 }
 .para{
-	font-size:10px;
+	font-size:20px;
 }
 .card{
 	border:0px solid #ddd !important;
@@ -77,7 +77,7 @@ a:focus,button:focus{
 }
 .paragraph{
 	font-family:'Times New Roman', Times, serif;
-	font-size:25px;
+	font-size:15px;
 }
 a{
 	text-decoration:none;

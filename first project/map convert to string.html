@@ -1,0 +1,44 @@
+<html>
+	<head>
+		<title>convert to string</title>
+	</head>
+	<body>
+		<script>
+			
+			//convert to string using map function
+			/*a=[1,2,3,4,5]
+			b=a.map(obj=>obj.toString())
+			document.write(b+"<br>")
+			document.write(typeof b[0])*/
+			
+			//convert to index value using map function
+			/*a=["a","b","c","d"]
+			b=a.map((value,index)=>value+index)
+			document.write(b)*/
+			
+			//capital print the first letter
+			/*a=["apple","suriya"]
+			b=a.map(value=>value.charAt(0).toUpperCase()+ value.substring(1))
+			document.write(b)*/
+			
+			//map with conditional logic
+			/*a=[10,20,30,40]
+			b=a.map(b=>
+			{
+			if(b>=40)
+			{
+			document.write("pass"+"<br>")
+			}
+			else
+			{
+			document.write("fail"+"<br>")
+			}})
+			*/
+			
+		    //format number to currency symbol
+			a=[10,20,30,40]
+			b=a.map(a=>"$"+a)
+			document.write(b)
+		</script>
+	</body>
+</html>

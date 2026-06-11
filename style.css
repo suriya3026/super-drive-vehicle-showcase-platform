@@ -132,13 +132,13 @@ a{
 .form-control{
 	border:1px solid black !important;
 .click{
-	background-color :#01576faf ;
-	color :#222;
-	padding :8px 10px;
+	background-color :#01576faf !important;
+	color :#222 !important;
+	padding :8px 10px !important;
 	border :none !important;
-	border-radius : 10px;
-	font-size :16px;
-	font-weight :600;
-	cursor :pointer;
+	border-radius : 10px !important;
+	font-size :16px !important;
+	font-weight :600 !important;
+	cursor :pointer !important;
 	transition :0.3s ease;
 }

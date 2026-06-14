@@ -190,7 +190,7 @@ a{
         padding:50px;
     }
 	.audi-logo{
-		max-width:250px;
+		max-width:100% !important;
 		margin:0 auto;
 		display:block;
 	}
@@ -213,7 +213,7 @@ a{
         padding:5px;
     }
 	.audi-logo{
-		max-width:120px !important;
+		max-width:100% !important;
 		margin:0 auto;
 		display:block;
 	}

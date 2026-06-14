@@ -210,3 +210,28 @@ a{
     }
 
 }
+	.audi-logo{
+		max-width:95px;
+		margin:0 auto;
+		display:block;
+	}
+	.audiview{
+		display :block;
+		margin-left:135px !important;
+	}
+	.bmwiview{
+		display :block;
+		margin-right:25px !important;
+	}
+	.mercedesview{
+		display :block;
+		margin-left:40px !important;
+	}
+	.toyotaview{
+		display :block;
+		margin-left:45px !important;
+	}
+	.hyundaiview{
+		display :block;
+		margin-left:40px !important;
+	}

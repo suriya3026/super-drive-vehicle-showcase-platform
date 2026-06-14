@@ -236,13 +236,13 @@ a{
 
 }
 	.audi-logo{
-		max-width:95px;
+		max-width:95px !important;
 		margin:0 auto;
 		display:block;
 	}
 	.audiview{
 		display :block;
-		margin-left:135px !important;
+		margin-left:135px auto !important;
 	}
 	.bmwiview{
 		display :block;

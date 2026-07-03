@@ -50,11 +50,6 @@ Through this project, I improved my understanding of:
 
 ---
 
-## 📸 Screenshots
-Add your project screenshots here.
-
----
-
 ## 🔗 Future Improvements
 - Backend integration using Java & Spring Boot
 - Database connectivity

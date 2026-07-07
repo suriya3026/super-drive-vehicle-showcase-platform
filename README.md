@@ -71,3 +71,5 @@ https://github.com/super-drive-vehicle-showcase-platform
 
 ## 👨‍💻 Author
 Developed by # SURIYA J #
+
+Frontend Developer | BCA Graduate | HTML5 | CSS3 | Bootstrap | JavaScript | React JS | Responsive Web Developer | Open to Work

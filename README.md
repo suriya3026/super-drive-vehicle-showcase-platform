@@ -59,12 +59,12 @@ Through this project, I improved my understanding of:
 
 ---
 
- Demo : 
+Live Demo : 
 https://suriya3026.github.io/super-drive-vehicle-showcase-platform/
 
 ----
 
-GitHub
+GitHub : 
 https://github.com/super-drive-vehicle-showcase-platform
 
 ---

@@ -59,7 +59,7 @@ Through this project, I improved my understanding of:
 
 ---
 
-Live Demo
+ Demo : 
 https://suriya3026.github.io/super-drive-vehicle-showcase-platform/
 
 ----
